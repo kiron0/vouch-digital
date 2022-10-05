@@ -2,8 +2,8 @@ import React from "react";
 
 export default function App() {
   return (
-    <div>
-      <h1>Hello CodeSandbox</h1>
+    <div className="flex justify-center items-center h-screen">
+      <h1 className="text-4xl">Hello Vouch Digital</h1>
     </div>
   );
 }
